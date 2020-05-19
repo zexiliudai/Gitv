@@ -1,0 +1,196 @@
+#store {position: absolute; left:0; top:0; width:60%; height: 100%;}
+#cart_top {position: absolute; right:0; top:0; width:40%; height: 50%;background-color:#F5F0EF;}
+#cart_bottom {position: absolute; right:0; bottom: 0; width:40%; height: 50%;background-color:#F5F0EF;}
+
+body{width:100%}
+
+table { position:absolute;
+        top:40px; width: 100%;
+        height: 40px;
+        background-color:darksalmon;
+      }
+
+#top_bottom {position: absolute;top:0; width:100%;height:40px;background-color:rgb(214, 206, 205);}
+
+h2{color:black; line-height: 40px;}
+#top_left{position: fixed;left: 0;width: 60%;top: 0;height: 40px;;background-color:#F5F0EF}
+#top_right{position: fixed;right: 0;width: 40%;top: 0;height: 40px;;background-color:rgb(214, 206, 205)}
+* {
+    margin: 0;
+    padding: 0;
+}
+div#categories {position: absolute;
+     left:51%; top: 10%;
+     height:40px; width: 85px;
+     background-color: white;
+     border-style: solid;
+     border-color: black;
+     text-align: center;
+     border-radius: 12px;
+     }
+h3{line-height: 40px;}
+
+
+
+div#level1 {position: absolute;
+            left:20%;top: 20%;
+            height:5%; width:90%;
+            min-width: 
+            background-color: white；
+            
+}
+
+div.lv1 {
+        height:100%; width: 12%;
+
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        border-radius: 12px;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 4%;
+    }
+
+div#frozen_food{position: absolute;
+        left:20%;top:25%;
+        height:160px; width:80%;
+        background-color: white；
+        
+    } 
+
+    div.lv2 {
+        position: relative;
+        top:15%;
+        height:40px; width: 19%;
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        border-radius: 12px;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 4%;
+    }  
+
+    div#fish500 {
+        position: absolute;
+        top:100px; left: 18%;
+        height:40px; width: 15%;
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        border-radius: 12px;
+        display: inline-block;
+        vertical-align: middle;
+    }  
+
+    div#fish1000 {
+        position: absolute;
+        top:100px; left: 35%;
+        height:40px; width: 15%;
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        border-radius: 12px;
+        display: inline-block;
+        vertical-align: middle;
+    }  
+
+    div#icecream1 {
+        position: absolute;
+        top:100px; right:18%;
+        height:40px; width: 15%;
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        border-radius: 12px;
+        display: inline-block;
+        vertical-align: middle;
+    }  
+
+    div#icecream2 {
+        position: absolute;
+        top:100px; right:0%;
+        height:40px; width: 15%;
+        background-color: white;
+        border-style: solid;
+        border-color: black;
+        text-align: center;
+        border-radius: 12px;
+        display: inline-block;
+        vertical-align: middle;
+    }  
+
+    div#vline1{
+        height: 120%;
+        border-left: 2px solid black;
+        position: absolute;
+        left: 50%;
+        top: 100%;
+    }
+
+    div#vline2{
+        height: 3%;
+        border-left: 2px solid black;
+        position: absolute;
+        left: 24%;
+        top: 18%;
+    }
+    
+       div#vline3{
+        height: 3%;
+        border-left: 2px solid black;
+        position: absolute;
+        left: 42%;
+        top: 18%;
+    }
+
+       div#vline4{
+        height: 3%;
+        border-left: 2px solid black;
+        position: absolute;
+        left: 73%;
+        top: 18%;
+    }
+
+
+       div#vline5{
+        height: 3%;
+        border-left: 2px solid black;
+        position: absolute;
+        left: 89%;
+        top: 18%;
+    }
+        div#vline6{
+        height: 14%;
+        border-left: 2px solid black;
+        position: absolute;
+        left: 8%;
+        top: 3%;
+    }
+
+
+    hr#hline1{
+        width:65%;
+        color:black;
+        position: absolute;
+        top: 18%;
+        left: 24%;
+        border: 0;
+    border-bottom: 2px solid black;
+    }
+
+        hr#hline2{
+        width:76%;
+        color:black;
+        position: absolute;
+        top: 8%;
+        left: 8%;
+        border: 0;
+    border-bottom: 2px solid black;
+    }
